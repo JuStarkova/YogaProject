@@ -1,0 +1,28 @@
+# Виртуальное окружение
+venv/
+env/
+ENV/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+*.pyc
+
+# IDE и редакторы
+.vscode/
+.idea/
+*.swp
+*~
+
+# Файлы PyInstaller (для сборки PyQt-приложения в .exe)
+*.spec
+dist/
+build/
+
+# OS / Система (включая Windows)
+.DS_Store
+Thumbs.db
+desktop.ini
